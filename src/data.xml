@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<faculties>
+  <faculty>
+    <name>Hemanth</name>
+    <email>Hr@admin.com</email>
+    <designation>admin</designation>
+  </faculty>
+  <faculty>
+    <name>krishna</name>
+    <email>krishna@gmail.com</email>
+    <designation>Professor</designation>
+  </faculty>
+  <faculty>
+    <name>sabarish</name>
+    <email>sabari@example.com</email>
+    <designation>Assistant Professor</designation>
+  </faculty>
+  <faculty>
+    <name>Aravind</name>
+    <email>aravind@example.com</email>
+    <designation>Associate Professor</designation>
+  </faculty>
+  <faculty>
+    <name>sanjay</name>
+    <email>sanjay@example.com</email>
+    <designation>Lecturer</designation>
+  </faculty>
+</faculties>

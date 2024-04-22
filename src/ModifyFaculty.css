@@ -1,0 +1,61 @@
+.modify-faculty-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .modify-faculty-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .modify-faculty-form {
+    margin-bottom: 20px;
+  }
+  
+  .faculty-data-container {
+    margin-bottom: 10px;
+  }
+  
+  .faculty-data-label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+  }
+  
+  .faculty-data-input {
+    width: calc(100% - 170px);
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .modify-faculty-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .modify-faculty-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .show-xml-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .show-xml-button:hover {
+    background-color: #218838;
+  }
+  

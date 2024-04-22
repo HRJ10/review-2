@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "faculty_id": "FAC001",
+    "faculty_name": "John Doe",
+    "reason_for_leave": "Family vacation",
+    "start_date": "2024-04-01",
+    "end_date": "2024-04-10",
+    "approved": true
+  },
+  {
+    "id": 2,
+    "faculty_id": "FAC002",
+    "faculty_name": "Jane Smith",
+    "reason_for_leave": "Medical emergency",
+    "start_date": "2024-04-05",
+    "end_date": "2024-04-07",
+    "approved": false
+  },
+  {
+    "id": 3,
+    "faculty_id": "FAC003",
+    "faculty_name": "Michael Johnson",
+    "reason_for_leave": "Attending conference",
+    "start_date": "2024-04-15",
+    "end_date": "2024-04-18",
+    "approved": true
+  },
+  {
+    "id": 4,
+    "faculty_id": "FAC004",
+    "faculty_name": "Emily Brown",
+    "reason_for_leave": "Personal reasons",
+    "start_date": "2024-04-20",
+    "end_date": "2024-04-25",
+    "approved": true
+  },
+  {
+    "id": 5,
+    "faculty_id": "FAC005",
+    "faculty_name": "David Wilson",
+    "reason_for_leave": "Maternity leave",
+    "start_date": "2024-04-10",
+    "end_date": "2024-05-15",
+    "approved": true
+  },
+  {
+    "id": 6,
+    "faculty_id": "FAC006",
+    "faculty_name": "Sarah Johnson",
+    "reason_for_leave": "Research sabbatical",
+    "start_date": "2024-04-01",
+    "end_date": "2024-09-30",
+    "approved": true
+  },
+  {
+    "id": 7,
+    "faculty_id": "FAC007",
+    "faculty_name": "Robert Miller",
+    "reason_for_leave": "Personal development course",
+    "start_date": "2024-04-10",
+    "end_date": "2024-04-15",
+    "approved": true
+  },
+  {
+    "id": 8,
+    "faculty_id": "FAC008",
+    "faculty_name": "Jennifer Garcia",
+    "reason_for_leave": "Family emergency",
+    "start_date": "2024-04-12",
+    "end_date": "2024-04-13",
+    "approved": false
+  },
+  {
+    "id": 9,
+    "faculty_id": "FAC009",
+    "faculty_name": "William Rodriguez",
+    "reason_for_leave": "Graduation ceremony",
+    "start_date": "2024-05-01",
+    "end_date": "2024-05-02",
+    "approved": true
+  },
+  {
+    "id": 10,
+    "faculty_id": "FAC010",
+    "faculty_name": "Lisa Martinez",
+    "reason_for_leave": "Parent-teacher meeting",
+    "start_date": "2024-04-08",
+    "end_date": "2024-04-09",
+    "approved": true
+  },
+  {
+    "id": 11,
+    "faculty_id": "FAC011",
+    "faculty_name": "Daniel Lopez",
+    "reason_for_leave": "Attending workshop",
+    "start_date": "2024-04-25",
+    "end_date": "2024-04-26",
+    "approved": true
+  },
+  {
+    "id": 12,
+    "faculty_id": "FAC012",
+    "faculty_name": "Ashley Gonzales",
+    "reason_for_leave": "Moving to a new residence",
+    "start_date": "2024-04-30",
+    "end_date": "2024-05-05",
+    "approved": true
+  },
+  {
+    "id": 13,
+    "faculty_id": "FAC013",
+    "faculty_name": "Christopher Perez",
+    "reason_for_leave": "Visiting family",
+    "start_date": "2024-04-07",
+    "end_date": "2024-04-12",
+    "approved": true
+  },
+  {
+    "id": 14,
+    "faculty_id": "FAC014",
+    "faculty_name": "Mary Turner",
+    "reason_for_leave": "Volunteering at charity event",
+    "start_date": "2024-04-22",
+    "end_date": "2024-04-23",
+    "approved": true
+  },
+  {
+    "id": 15,
+    "faculty_id": "FAC015",
+    "faculty_name": "Mark Scott",
+    "reason_for_leave": "Attending academic conference",
+    "start_date": "2024-04-18",
+    "end_date": "2024-04-21",
+    "approved": true
+  }
+]
